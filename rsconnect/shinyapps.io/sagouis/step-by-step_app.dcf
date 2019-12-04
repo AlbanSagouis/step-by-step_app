@@ -1,0 +1,10 @@
+name: step-by-step_app
+title:
+username:
+account: sagouis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1554006
+bundleId: 2635474
+url: https://sagouis.shinyapps.io/step-by-step_app/
+when: 1575367178.30424
